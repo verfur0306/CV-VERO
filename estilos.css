@@ -1,0 +1,109 @@
+.row{
+    background-color: #d1eaeb;
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 25px;  /* Preferred icon size */
+    display: inline;
+    line-height: -1;
+    text-transform: none;
+    letter-spacing: 0.7em;
+    word-wrap: normal;
+    white-space: nowrap; 
+    direction: ltr;
+    vertical-align: sub;
+};
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+   }
+   
+   h1, h2, h3, h6{
+    font-family: 'Abril Fatface', serif;
+    color: #ee3c33;
+   }
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: 1.5em;
+    margin-bottom: 11px;
+}
+
+h3{
+    font-size: 1.5em;
+}
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1em;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    
+}
+*/
+
+#nv{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    color: #ee3c33;
+}
+#desc{
+    
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+    font-size: 0.9em;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.imgRedonda{
+    width:150px;
+    height:150px;
+    border-radius:150px;
+    margin-bottom: 5px;
+}
+.imgCara{
+    width:150px;
+    height:150px;
+    border-radius:150px;
+    margin-bottom: 53px;
+}
+.card{
+
+    
+    margin-bottom: 3%;
+    background-color: rgb(206, 206, 206)
+}
+.card-title{
+    font-family:  'Roboto', sans-serif;
+    font-weight: 500;
+    margin-bottom: 7px;
+    text-transform: uppercase;
+}
+
+.card-text{
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+.btn{
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+.card img{
+    max-width: 100%;
+    max-height: 400px;
+}
+
+.footer{
+    font-size: 00.7em;
+}
+

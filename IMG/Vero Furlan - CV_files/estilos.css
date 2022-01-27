@@ -1,0 +1,80 @@
+#bg{
+    Background color: #b7e3e4
+
+}
+
+.row{
+    background-color: rgba(240, 248, 255, 0.377);
+    Text color: #f03f35
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 25px;  /* Preferred icon size */
+    display: inline;
+    line-height: -1;
+    text-transform: none;
+    letter-spacing: 0.7em;
+    word-wrap: normal;
+    white-space: nowrap; 
+    direction: ltr;
+    vertical-align: sub;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+   }
+   
+   h1, h2, h3{
+    font-family: 'Abril Fatface', serif;
+   }
+h1{
+    font-size: 3em;
+}
+
+h2{
+    font-size: 1.5em;
+    margin-bottom: 11px;
+}
+
+h3{
+    font-size: 1.5em;
+}
+h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1em;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif
+    font-size: 1em;
+}
+*/
+
+#nv{
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 200;
+    color: black;
+}
+#desc{
+    
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+    font-size: 0.9em;
+}
+.imgRedonda{
+    width:150px;
+    height:150px;
+    border-radius:150px;
+    margin-bottom: 5px;
+}
+.imgCara{
+    width:150px;
+    height:150px;
+    border-radius:150px;
+    margin-bottom: 53px;
+}
