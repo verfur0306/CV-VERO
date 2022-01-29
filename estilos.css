@@ -1,4 +1,4 @@
-.row{
+BODY{
     background-color: #d1eaeb;
 }
 
@@ -46,7 +46,7 @@ h4{
 
 p{
     font-family: 'Roboto', sans-serif;
-    font-size: 1em;
+    font-size: 1.2em;
     
 }
 */
@@ -60,7 +60,7 @@ p{
     
         font-family: 'Roboto', sans-serif;
         font-weight: 300;
-    font-size: 0.9em;
+    font-size: 1.2em;
     text-align: justify;
     text-justify: inter-word;
 }
@@ -80,7 +80,7 @@ p{
 
     
     margin-bottom: 3%;
-    background-color: rgb(206, 206, 206)
+    background-color: rgb(243, 243, 243)
 }
 .card-title{
     font-family:  'Roboto', sans-serif;
@@ -95,7 +95,16 @@ p{
 }
 .btn{
     font-family: 'Roboto', sans-serif;
-    font-size: small;
+    font-size: small;   
+    background-color: #d1eaeb;
+}
+.btn:hover{
+    font-family: 'Roboto', sans-serif;
+    font-size: small;   
+    background-color: #ee3c33;
+}
+.nav-item:hover{
+    background-color: #ee3c33;
 }
 
 .card img{
