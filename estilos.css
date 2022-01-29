@@ -83,9 +83,10 @@ p{
     margin-bottom: 53px;
 }
 .card{
-
+    display: flex;
+    justify-content: center;
     margin-bottom: 6%;
-    background-color: rgb(243, 243, 243)
+    background-color: rgb(243, 243, 243);
 }
 
 .card-title{
@@ -95,17 +96,21 @@ p{
     text-transform: uppercase;
     font-size: 1.7em;
     padding: 2%;
+    text-align: center;
 }
 
 .card-text{
     font-family: 'Roboto', sans-serif;
     font-style: italic;
+    text-align: center;
 }
 .btn{
     font-family: 'Roboto', sans-serif;
     font-size: small;   
     background-color: #d1eaeb;
-    position: center;
+    position: sticky;
+    align-items: center;
+   
 }
 .btn:hover{
     font-family: 'Roboto', sans-serif;
@@ -128,5 +133,4 @@ p{
 .links:hover{
     text-decoration: underline;
 }
-
 
